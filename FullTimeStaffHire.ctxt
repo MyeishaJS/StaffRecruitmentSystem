@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FullTimeStaffHire
+comment1.params=newWeeklyFractionalHours\ newSalary\ vacancyNumber\ designation\ jobType\ staffName\ joiningDate\ qualification\ appointedBy\ joined
+comment1.target=FullTimeStaffHire(int,\ double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=newSalary
+comment2.target=void\ setSalary(double)
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=weeklyFractionalHours
+comment4.target=void\ setWeeklyFractionalHours(int)
+comment5.params=
+comment5.target=int\ getWeeklyFractionalHours()
+comment6.params=
+comment6.target=void\ display()
+numComments=7
